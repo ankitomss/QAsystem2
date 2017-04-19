@@ -1,0 +1,2 @@
+Use the fetch_glove_data.sh file to download the glove data and unzip the glove data 
+and keep the glove data in this glove folder in order to run this program. 

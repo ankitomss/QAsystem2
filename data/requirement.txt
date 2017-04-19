@@ -1,0 +1,2 @@
+Use fetch_babi_data.sh to download the babi task data and use data inside the en folder and keep the training and testing data here to 
+run this program.
